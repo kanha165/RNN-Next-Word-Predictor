@@ -77,12 +77,7 @@ RNN-Next-Word-Predictor/
 ├── Sherlock Holmes.csv
 │
 ├── README.md
-│
 
-│
-├── app.py
-│
-└── .gitignore
 ```
 
 ---
@@ -101,7 +96,7 @@ The dataset contains large text sequences used for training the RNN model.
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/RNN-Next-Word-Predictor.git
+git clone https://github.com/kanha165/RNN-Next-Word-Predictor.git
 ```
 
 ---
@@ -275,9 +270,7 @@ Feel free to:
 
 ---
 
-# 📜 License
 
-This project is open-source and available under the MIT License.
 
 ---
 
