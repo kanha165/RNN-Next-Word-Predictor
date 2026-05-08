@@ -69,20 +69,20 @@ powerful
 ```text
 RNN-Next-Word-Predictor/
 │
-├── dataset/
-│   └── sherlock.txt
 │
-├── model/
-│   └── next_word_rnn_model.h5
+├── next_word_rnn_model.h5
 │
-├── notebook/
-│   └── next_word_predictor.ipynb
+├── RNN_model.ipynb
 │
-├── requirements.txt
+├── Sherlock Holmes.csv
 │
 ├── README.md
 │
-└── app.py
+
+│
+├── app.py
+│
+└── .gitignore
 ```
 
 ---
