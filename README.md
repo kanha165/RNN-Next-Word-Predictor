@@ -222,6 +222,7 @@ from tensorflow.keras.models import load_model
 model = load_model("next_word_rnn_model.h5")
 ```
 
+
 ---
 
 # 🔥 Future Improvements
